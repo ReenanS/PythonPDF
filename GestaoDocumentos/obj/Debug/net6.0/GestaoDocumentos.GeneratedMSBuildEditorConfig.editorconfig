@@ -15,3 +15,7 @@ build_property.SupportLocalizedComponentNames =
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
 build_property.MSBuildProjectDirectory = C:\Users\renan\OneDrive\Documents\Repositorio\PythonPDF\GestaoDocumentos
 build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/renan/OneDrive/Documents/Repositorio/PythonPDF/GestaoDocumentos/Templates/contrato_adesao_consorcio.cshtml]
+build_metadata.AdditionalFiles.TargetPath = VGVtcGxhdGVzXGNvbnRyYXRvX2FkZXNhb19jb25zb3JjaW8uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 

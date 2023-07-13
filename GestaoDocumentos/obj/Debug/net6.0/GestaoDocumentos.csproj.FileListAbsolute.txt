@@ -36,3 +36,5 @@ C:\Users\renan\OneDrive\Documents\Repositorio\PythonPDF\GestaoDocumentos\obj\Deb
 C:\Users\renan\OneDrive\Documents\Repositorio\PythonPDF\GestaoDocumentos\obj\Debug\net6.0\GestaoDocumentos.pdb
 C:\Users\renan\OneDrive\Documents\Repositorio\PythonPDF\GestaoDocumentos\obj\Debug\net6.0\GestaoDocumentos.genruntimeconfig.cache
 C:\Users\renan\OneDrive\Documents\Repositorio\PythonPDF\GestaoDocumentos\obj\Debug\net6.0\ref\GestaoDocumentos.dll
+C:\Users\renan\OneDrive\Documents\Repositorio\PythonPDF\GestaoDocumentos\obj\Debug\net6.0\GestaoDocumentos.RazorAssemblyInfo.cache
+C:\Users\renan\OneDrive\Documents\Repositorio\PythonPDF\GestaoDocumentos\obj\Debug\net6.0\GestaoDocumentos.RazorAssemblyInfo.cs
